@@ -43,6 +43,10 @@ dt {
   height: 50px;
 }
 
+.fas {
+  float: right;
+}
+
 .logo {
   font-size: 20px;
   font-weight: bold;

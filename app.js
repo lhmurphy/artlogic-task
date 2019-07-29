@@ -5,6 +5,7 @@ $(document).ready(() => {
     $('.faq dd').hide()
     $('.faq dt').click(function(){
       $(this).next().slideToggle('slow')
+      $(this).find('.fas').toggleClass('fa-sort-up')
     })
   })
 })
