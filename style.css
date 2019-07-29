@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  font-family: Helvetica;
 }
 
 html, body, main {
@@ -11,10 +12,52 @@ html, body, main {
   height: 100vh;
   width: 50vw;
   float: left;
+  color: white;
 }
 
-.faqs {
+.faq-container {
   height: 100vh;
   width: 50vw;
   float: right;
+}
+
+.hero {
+  padding: 50px;
+  background-image: url('images/background.jpg');
+  background-repeat: no-repeat;
+  background-size: 150% 100%;
+}
+
+.faq {
+  padding: 50px;
+  background-color: #EEEEEE;
+}
+
+.logo {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+button {
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #EEEEEE;
+}
+
+p {
+  font-size: 15px;
+  line-height: 2;
 }
