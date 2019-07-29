@@ -40,17 +40,18 @@ html, body, main {
 }
 
 .logo {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
 }
 
 h1 {
-  font-size: 70px;
-  padding: 50% 0 0 0;
+  font-size: 50px;
+  padding: 40% 0 0 0;
+  width: 80%;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 20px;
   position: absolute;
   bottom: 50px;
 }
@@ -58,29 +59,27 @@ h2 {
 .hero hr {
   border: none;
   background-color: white;
-  margin-top: 190px;
-  width: 60px;
-  height: 3px;
+  margin-top: 30%;
+  width: 40px;
+  height: 2px;
 }
 
 h3 {
-  font-size: 30px;
-  padding-bottom: 50px;
+  font-size: 20px;
+  padding-bottom: 40px;
 }
 
 button {
   border: none;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
   background-color: #EEEEEE;
   padding-top: 20px;
 }
 
-
-
 p {
-  font-size: 15px;
+  font-size: 11px;
   color: #696969;
   line-height: 2;
-  padding: 20px 0 70px 0;
+  padding: 20px 0 50px 0;
 }
