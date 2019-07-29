@@ -19,6 +19,7 @@ html, body, main {
   height: 100vh;
   width: 50vw;
   float: right;
+  background-color: #EEEEEE;
 }
 
 .hero {
@@ -30,13 +31,16 @@ html, body, main {
 
 .faq {
   padding: 50px;
-  background-color: #EEEEEE;
 }
 
 .faq-container hr {
   border: none;
   background-color: #C0C0C0;
   height: 1px;
+}
+
+dt {
+  height: 50px;
 }
 
 .logo {
