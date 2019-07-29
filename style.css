@@ -33,6 +33,12 @@ html, body, main {
   background-color: #EEEEEE;
 }
 
+.faq-container hr {
+  border: none;
+  background-color: #C0C0C0;
+  height: 1px;
+}
+
 .logo {
   font-size: 30px;
   font-weight: bold;
@@ -59,16 +65,22 @@ h2 {
 
 h3 {
   font-size: 30px;
+  padding-bottom: 50px;
 }
 
 button {
   border: none;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   background-color: #EEEEEE;
+  padding-top: 20px;
 }
+
+
 
 p {
   font-size: 15px;
+  color: #696969;
   line-height: 2;
+  padding: 20px 0 70px 0;
 }
