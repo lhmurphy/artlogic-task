@@ -18,7 +18,10 @@ Front-end development exercise
 ## Overview:
 
 #### Wireframe
-I began with drawing out a basic wireframe to ensure correct semantic layout as I know this is important for accessibility.  I tried to maintain good practice in regularly pushing code to github to show the steps I made in my process.
+I began with drawing out a basic wireframe to ensure correct semantic layout as I know this is important for accessibility.  
+
+#### gitHub
+I tried to maintain good practice in regularly pushing code to github to show the steps I made in my process.
 
 
 #### Definition list
@@ -32,14 +35,15 @@ I really enjoyed styling - I feel confident in my ability to copy so this was fu
 
 ## Challenges:
 
-* jQuery slideToggle: At first I managed to get the FAQs to toggle up and down but it meant that all of the questions could be clicked on and opened and with all of them open it would break the layout of the page and go below the bottom. To prevent this I added a `slideUp()` which would close the previous FAQ before doing anything else.
+* jQuery `slideToggle`: At first I managed to get the FAQs to toggle up and down but it meant that all of the questions could be clicked on and opened and with all of them open it would break the layout of the page and go below the bottom. To prevent this I added a `slideUp()` which would close the previous FAQ before doing anything else.
 
 * Positioning the background image: I has to research how to position a background image in a certain position, I found that starting the image in negative pixels helped to position the image in the way that the brief shows.
 
-* Icon toggling: I really enjoyed using the Font Awesome toolkit for the drop down arrows, it took a bit of research to figure out how to change the icon onClick but soon discovered how to do so with a `toggleClass()`.
+* Arrow icon toggling: I really enjoyed using the Font Awesome toolkit for the drop down arrows, it took a bit of research to figure out how to change the icon onClick but soon discovered how to do so with a `toggleClass()`.
 
 
 ## Future features:
+
 #### Given more time I would...
 * Continue with the responsive design, I noticed that some screen dimensions do not fit too well
 
