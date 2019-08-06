@@ -1,4 +1,4 @@
-# Artlogic Task
+# SEO Toggle Task
 Front-end development exercise  
 
 ## Technologies used:
