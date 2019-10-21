@@ -17,12 +17,13 @@ Front-end development exercise
 
 ## Overview:
 
+<img width="1280" alt="Screenshot 2019-10-21 at 17 38 22" src="https://user-images.githubusercontent.com/38182323/67224745-cfe15b80-f429-11e9-9bb8-50f10eef5182.png">
+
 #### Wireframe
 I began with drawing out a basic wireframe to ensure correct semantic layout as I know this is important for accessibility.  
 
 #### gitHub
 I tried to maintain good practice in regularly pushing code to github to show the steps I made in my process.
-
 
 #### Definition list
 Building an FAQ page was new to me so I did some research around the best way to do this, I discovered the correct semantics were to include `dl` for 'definition list', `dt` for 'definition title' and `dd` for 'definition description'.
@@ -34,6 +35,8 @@ I completed responsive design for desktop, mobile and tablet. I wanted the small
 I really enjoyed styling - I feel confident in my ability to copy so this was fun to try to get it pixel perfect.
 
 ## Challenges:
+
+<img width="642" alt="Screenshot 2019-10-21 at 17 40 52" src="https://user-images.githubusercontent.com/38182323/67224835-fdc6a000-f429-11e9-9a3f-fce8b0c57900.png">
 
 * jQuery `slideToggle`: At first I managed to get the FAQs to toggle up and down but it meant that all of the questions could be clicked on and opened and with all of them open it would break the layout of the page and go below the bottom. To prevent this I added a `slideUp()` which would close the previous FAQ before doing anything else.
 
